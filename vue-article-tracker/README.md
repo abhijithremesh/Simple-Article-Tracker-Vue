@@ -1,4 +1,4 @@
-# vue-crash-todolist
+# Simple Article Tracker App
 
 ## Project setup
 ```
